@@ -48,15 +48,6 @@ Durante o desenvolvimento do projeto, foram aplicados conceitos importantes rela
 
 ---
 
-## 📷 Preview do Sistema
-Adicione aqui imagens ou screenshots do sistema.
-
-```md
-![Preview do Sistema](./img/preview.png)
-```
-
----
-
 ## 👨‍💻 Autor
 Desenvolvido por **João Victor**.
 
