@@ -46,7 +46,9 @@ Uma imagem de um astronauta estilo barroco tocando violoncelo em Marte
 
 ## 📈 Resultados Observados
 
-![Resultado](Prompts/imagens/imagem1.jpeg)
+![Resultado](Prompts/Imagens/Imagem1.jpeg)
+
+![Resultado](Prompts/Imagens/imagem2.jpeg)
 
 ---
 
