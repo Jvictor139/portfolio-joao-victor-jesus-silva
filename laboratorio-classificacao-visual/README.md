@@ -104,15 +104,6 @@ Com essas ações, torna-se possível reduzir interpretações simplificadas e t
 
 # 📂 Estrutura do Projeto
 
-```bash
-/laboratorio-classificacao-visual
-│
-├── imagens/
-├── resultados/
-├── analise/
-├── README.md
-└── documentacao/
-```
 
 ---
 
