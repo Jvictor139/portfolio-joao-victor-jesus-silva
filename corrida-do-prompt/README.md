@@ -36,30 +36,17 @@ Na primeira fase, foram realizados experimentos utilizando prompts específicos 
 
 ---
 
-## 🧪 Exemplo de Evolução
-
 ### 🔹 Prompt Inicial
 
 ```text
-Um guerreiro medieval.
-```
-
-### 🔹 Prompt Refinado
-
-```text
-Um guerreiro medieval usando armadura dourada detalhada,
-segurando uma espada flamejante em um campo de batalha
-durante o pôr do sol, estilo cinematográfico realista.
+Uma imagem de um astronauta estilo barroco tocando violoncelo em Marte
 ```
 
 ---
 
 ## 📈 Resultados Observados
 
-- Maior riqueza visual;
-- Melhor coerência entre elementos;
-- Aumento do realismo;
-- Controle mais preciso do resultado final.
+
 
 ---
 
@@ -76,57 +63,24 @@ Após os testes com imagens, o projeto evoluiu para experimentos com geração t
 
 ---
 
-## 🧪 Exemplo de Evolução
-
 ### 🔹 Prompt Inicial
 
 ```text
-Fale sobre tecnologia.
-```
-
-### 🔹 Prompt Refinado
-
-```text
-Explique como a Inteligência Artificial está
-transformando o mercado de trabalho nos últimos anos,
-destacando vantagens, desafios e impactos na área
-de desenvolvimento de software.
+Um e-mail formal de desculpas de um pirata para um rei.
 ```
 
 ---
 
 ## 📈 Resultados Observados
 
-- Respostas mais completas;
-- Melhor contextualização;
-- Informações mais relevantes;
-- Estrutura textual mais organizada.
+
 
 ---
 
 # 🛠 Tecnologias Utilizadas
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
----
-
-# 📂 Estrutura do Projeto
-
-```bash
-/projeto-evolucao-prompts
-│
-├── imagens/
-├── exemplos-prompts/
-├── resultados/
-├── README.md
-└── documentacao/
-```
 
 ---
 
