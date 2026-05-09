@@ -102,11 +102,6 @@ Com essas ações, torna-se possível reduzir interpretações simplificadas e t
 
 ---
 
-# 📂 Estrutura do Projeto
-
-
----
-
 # 🚀 Conclusão
 
 O experimento demonstrou que modelos de Inteligência Artificial podem desenvolver vieses significativos quando treinados com bases de dados limitadas.
