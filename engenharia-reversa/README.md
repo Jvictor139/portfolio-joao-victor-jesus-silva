@@ -125,9 +125,7 @@ Destaque de Sintaxe: Se possível, adicione syntax highlighting básico no campo
 
 # 📸 Resultado Gerado
 
-```txt
-StackEdit Clone.png
-```
+imagens/StackEditClone.png
 
 ---
 
