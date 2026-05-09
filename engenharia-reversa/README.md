@@ -191,3 +191,5 @@ Projeto acadêmico desenvolvido para estudos de:
 # 📄 Licença
 
 Projeto desenvolvido exclusivamente para fins educacionais e acadêmicos.
+
+[⬆ Voltar ao início](#-sobre-o-projeto)
