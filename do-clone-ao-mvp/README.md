@@ -230,3 +230,5 @@ Adicione aqui screenshots do projeto
 O projeto demonstra como um sistema simples pode evoluir para um MVP mais completo através da adição de funcionalidades modernas e foco na experiência do usuário.
 
 Além disso, a atividade reforça a importância da IA como ferramenta auxiliar no desenvolvimento de software, destacando também os desafios éticos relacionados à originalidade, autoria e responsabilidade técnica.
+
+[⬆ Voltar ao início](#-sobre-o-projeto)
