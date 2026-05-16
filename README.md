@@ -43,7 +43,9 @@ Atualmente cursando o 1º período de ADS na UNICID. Sou apaixonado por resolver
 | **Classificação visual** | Laboratorio de classificação visual por IA. | [Ver Projeto](./laboratorio-classificacao-visual/) |
 | **Batalha de modelos** | Comparação de capacidade evolutiva das IAs. | [Ver Projeto](./batalha-de-modelos/) |
 | **Engenharia reversa** | Atividade de duplicação de codigos. | [Ver Projeto](./Engenharia-reversa/) |
+| **Do Clone ao MVP** | Reformulação do projeto DarkEditor. | [Ver Projeto](./do-clone-ao-mvp/) |
 | **Cronograma de demandas** | Web app para o gerênciamento de demandas. | [Ver Projeto](./projeto-cronograma-demandas/) |
+
  
 ---
  
